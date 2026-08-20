@@ -1,0 +1,80 @@
+
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Header */
+        .header {
+            background-color: #4169e1;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        /* Scrolling Updates */
+        .updates {
+            background-color: yellow;
+            color: red;
+            padding: 10px;
+            font-weight: bold;
+        }
+
+        /* Sections */
+        .section {
+            background-color: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #4169e1;
+        }
+
+        /* Image */
+        img {
+            width: 250px;
+            height: 150px;
+        }
+
+        /* Tables */
+        table {
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #87ceeb;
+        }
+
+        /* Form */
+        input, select, textarea {
+            margin: 5px;
+            padding: 8px;
+        }
+
+        button {
+            background-color: #4169e1;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* Links */
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: red;
+            text-decoration: underline;
+        }
